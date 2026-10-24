@@ -12,6 +12,7 @@ Small tools for everyday life. Android apps, home-screen widgets and web apps, m
 | [focus-ofek](https://github.com/horizonbuilds/focus-ofek) | Focus and task app | [open](https://horizonbuilds.github.io/focus-ofek/) |
 | [hashvaat-mekhirim](https://github.com/horizonbuilds/hashvaat-mekhirim) | השוואת מחירים | [open](https://horizonbuilds.github.io/hashvaat-mekhirim/) |
 | [kochava-laundry-helper](https://github.com/horizonbuilds/kochava-laundry-helper) | עוזר למכונת כביסה | [open](https://horizonbuilds.github.io/kochava-laundry-helper/) |
+| [deliveries](https://github.com/horizonbuilds/deliveries) | מעקב משלוחים אישי | [open](https://horizonbuilds.github.io/deliveries/) |
 
 ## Stack
 
