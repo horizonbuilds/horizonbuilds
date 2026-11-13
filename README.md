@@ -11,7 +11,7 @@ Android apps · iOS home-screen widgets · Web apps · Cloudflare Workers · Git
 
 | Project | What it does | Live |
 |---|---|---|
-| Money Vault 🔒 | Insurance & pension dashboard - balances, returns and track comparison, redesigned from scratch (private repo) | [open](https://oak-vault-x7q2.mqog1v.workers.dev/) |
+| Money Vault 🔒 | Insurance & pension dashboard - balances, returns and track comparison, redesigned from scratch (private repo) | [open](https://money.hz9.workers.dev/) |
 | [hashvaat-mekhirim](https://github.com/horizonbuilds/hashvaat-mekhirim) | Supermarket price comparison across Petah Tikva - the full basket, fruit & veg included | [open](https://horizonbuilds.github.io/hashvaat-mekhirim/) |
 
 ## 🚀 Everyday | יום-יום
